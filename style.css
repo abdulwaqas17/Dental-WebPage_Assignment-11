@@ -1,0 +1,83 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HEADER */
+
+
+.header{
+    display: flex;
+  
+}
+
+.logo{
+    padding-left: 15px;
+}
+
+.heading{
+    display: flex;
+   font-size: 50px;
+   color: gray;
+   margin-left: 240px;
+   font-weight: 500;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bold{
+    font-size: 22px;
+    font-weight: 700;
+   margin-top: 50px;
+   color: rgb(10, 141, 248);
+}
+
+/* MAIN */
+
+.main{
+    background-color: rgb(231, 202, 235);
+    border-radius: 9px;
+}
+
+.kids{
+    text-align: center;
+    padding-top: 15px;
+    font-size: 40px;
+    font-weight: 500;
+    
+}
+
+.check-up{
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.content{
+    margin-left: 15px;
+}
+
+.question{
+    font-size: 29px;
+    font-weight: 500;
+}
+
+.contact{
+    font-weight: 550;
+    font-size: 30px;
+}
+
+.space{
+    margin-left: 15px;
+}
+
+.webDeveloper{
+    
+    font-weight: 800;
+    font-style: oblique;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
