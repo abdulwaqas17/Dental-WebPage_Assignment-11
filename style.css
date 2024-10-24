@@ -1,5 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    min-width: 1300px;
+    /* overflow: hidden; */
 }
 
 /* HEADER */
@@ -41,6 +43,13 @@ body{
     border-radius: 9px;
 }
 
+.main p {
+
+    /* font-size: 0.95rem; */
+    color: #252525;
+    line-height: 1.35rem;
+    /* letter-spacing: 1px; */
+}
 .kids{
     text-align: center;
     padding-top: 15px;
